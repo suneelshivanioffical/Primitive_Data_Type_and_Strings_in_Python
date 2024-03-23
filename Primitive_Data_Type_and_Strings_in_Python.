@@ -28,7 +28,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 21,
       "metadata": {
         "id": "5Vm1Wd8EXaQ6"
       },
@@ -69,10 +69,25 @@
         "print(type(yonger))"
       ],
       "metadata": {
-        "id": "mLbe2xF7QxXs"
+        "id": "mLbe2xF7QxXs",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "0cc6c037-6731-4ef5-e0a4-3b723677b10a"
       },
-      "execution_count": null,
-      "outputs": []
+      "execution_count": 15,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "<class 'str'>\n",
+            "<class 'int'>\n",
+            "<class 'float'>\n",
+            "<class 'bool'>\n"
+          ]
+        }
+      ]
     },
     {
       "cell_type": "code",
@@ -85,10 +100,22 @@
         "print(age)\n"
       ],
       "metadata": {
-        "id": "MbomBaqEuZkM"
+        "id": "MbomBaqEuZkM",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "580e82f1-42e3-49c3-b4c9-8a2581e94c3d"
       },
-      "execution_count": null,
-      "outputs": []
+      "execution_count": 16,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "5\n"
+          ]
+        }
+      ]
     },
     {
       "cell_type": "code",
@@ -99,10 +126,22 @@
         "print(price)\n"
       ],
       "metadata": {
-        "id": "s9M7mryHueyb"
+        "id": "s9M7mryHueyb",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "c28e26b5-74f6-4a7e-ac6c-ad8921b58261"
       },
-      "execution_count": null,
-      "outputs": []
+      "execution_count": 17,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "100.0\n"
+          ]
+        }
+      ]
     },
     {
       "cell_type": "code",
@@ -125,10 +164,23 @@
         "print(\"You elgibilable for discount is :\", discount)"
       ],
       "metadata": {
-        "id": "3YlddlrfEkZj"
+        "id": "3YlddlrfEkZj",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "d1b2ffba-73b9-4ffb-bc24-8da05682e914"
       },
-      "execution_count": null,
-      "outputs": []
+      "execution_count": 18,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "you elgilbilty to vote is? True\n",
+            "You elgibilable for discount is : 0.1\n"
+          ]
+        }
+      ]
     },
     {
       "cell_type": "code",
@@ -148,10 +200,29 @@
         "\n"
       ],
       "metadata": {
-        "id": "ZbkBaTPsyj5X"
+        "id": "ZbkBaTPsyj5X",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "15fffd00-5168-4bfa-e460-90718880bd62"
       },
-      "execution_count": null,
-      "outputs": []
+      "execution_count": 19,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hello World\n",
+            "Suneel Shivani\n",
+            "Hello Students. \n",
+            "Hey, Good Morning Dear.\n",
+            "My name is Suneel.\n",
+            "My age is 21.\n",
+            "My name is Suneel, My age is 21.\n",
+            "23\n"
+          ]
+        }
+      ]
     },
     {
       "cell_type": "code",
@@ -175,9 +246,9 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "outputId": "41615a16-565f-407b-a673-11d5a1fc615b"
+        "outputId": "9d33edc5-48b5-47a1-e040-cf7dceaf0f16"
       },
-      "execution_count": 14,
+      "execution_count": 20,
       "outputs": [
         {
           "output_type": "stream",
